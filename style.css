@@ -35,6 +35,13 @@ footer p {
     margin: auto;
 }
 
+#ingredients:hover,
+#preparation:hover {
+    font-size: 300%;
+}
+
+
+
 @media screen and (max-width: 768px) {
 	#container {
 		width: 90%;	
