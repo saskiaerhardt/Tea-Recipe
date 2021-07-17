@@ -40,8 +40,6 @@ footer p {
     font-size: 300%;
 }
 
-
-
 @media screen and (max-width: 768px) {
 	#container {
 		width: 90%;	
